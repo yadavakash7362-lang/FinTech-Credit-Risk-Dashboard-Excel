@@ -1,7 +1,7 @@
 # FinTech-Credit-Risk-Dashboard-Excel
 Interactive Credit Risk and Loan Default Analytics Dashboard built in Microsoft Excel analyzing 32,581 retail loans ($312.4M portfolio).
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png.png)
 
 ## 🎯 Business Problem
 Lenders and FinTech platforms face significant revenue loss from Non-Performing Assets (NPAs). This dashboard helps risk managers answer:
